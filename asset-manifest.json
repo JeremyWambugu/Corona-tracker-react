@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JeremyWambugu/Corona-tracker-react.git/static/css/main.c66d0d4c.chunk.css",
+    "main.js": "/JeremyWambugu/Corona-tracker-react.git/static/js/main.7274dd9b.chunk.js",
+    "main.js.map": "/JeremyWambugu/Corona-tracker-react.git/static/js/main.7274dd9b.chunk.js.map",
+    "runtime-main.js": "/JeremyWambugu/Corona-tracker-react.git/static/js/runtime-main.06c0f666.js",
+    "runtime-main.js.map": "/JeremyWambugu/Corona-tracker-react.git/static/js/runtime-main.06c0f666.js.map",
+    "static/js/2.764dd5e1.chunk.js": "/JeremyWambugu/Corona-tracker-react.git/static/js/2.764dd5e1.chunk.js",
+    "static/js/2.764dd5e1.chunk.js.map": "/JeremyWambugu/Corona-tracker-react.git/static/js/2.764dd5e1.chunk.js.map",
+    "index.html": "/JeremyWambugu/Corona-tracker-react.git/index.html",
+    "precache-manifest.d1a0f77b24e946a561fe46c91dbb1153.js": "/JeremyWambugu/Corona-tracker-react.git/precache-manifest.d1a0f77b24e946a561fe46c91dbb1153.js",
+    "service-worker.js": "/JeremyWambugu/Corona-tracker-react.git/service-worker.js",
+    "static/css/main.c66d0d4c.chunk.css.map": "/JeremyWambugu/Corona-tracker-react.git/static/css/main.c66d0d4c.chunk.css.map",
+    "static/js/2.764dd5e1.chunk.js.LICENSE.txt": "/JeremyWambugu/Corona-tracker-react.git/static/js/2.764dd5e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06c0f666.js",
+    "static/js/2.764dd5e1.chunk.js",
+    "static/css/main.c66d0d4c.chunk.css",
+    "static/js/main.7274dd9b.chunk.js"
+  ]
+}
